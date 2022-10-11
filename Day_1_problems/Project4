@@ -1,0 +1,14 @@
+let school_name = "XYZ International School";
+
+
+let student_name = "Name"
+let section_name = "Section"
+let roll_no = "R.No."
+let marks = "Mrks"
+let grade = "Grade"
+
+console.log(school_name);
+console.log(student_name, section_name, roll_no, marks, grade)
+console.log("BoyX", "English", "23560", "_90_", "_A+")
+console.log("____", "History", "23560", "_60_", "_B-")
+console.log("____", "Culture", "23560", "_85_", "_A-")
