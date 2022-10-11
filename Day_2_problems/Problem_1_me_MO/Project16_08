@@ -1,0 +1,4 @@
+function infinityStones(one, two, three, four, five, six) {
+    console.log(one+(two+five+six)*2+(three+four)*3);
+    
+}
