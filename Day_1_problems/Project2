@@ -1,0 +1,9 @@
+let name = "Ravi Sharma"
+
+let Fname = "Bacchraj Chotiya"
+
+let Mname = "Tara Devi"
+
+console.log(name);
+console.log(Fname);
+console.log(Mname);
