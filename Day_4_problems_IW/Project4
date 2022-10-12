@@ -1,0 +1,11 @@
+let a = 20;
+let b= 21;
+let c = 19;
+
+if (a>b && a>c){
+  console.log("a ig grater")
+} else if (b>c && b>a){
+  console.log("b is grater");
+} else{
+  console.log("c is grater");
+}
