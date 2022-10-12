@@ -1,0 +1,15 @@
+let stored_username = "xyz123@gmail.com";
+let stored_password = "123xyz";
+
+let username = "xyz123@gmail.com";
+let password = "123xyz";
+
+if (stored_username == username){
+  if(stored_password == password){
+    console.log("Login Successfull");
+  } else{
+    console.log("incorrect password");
+  }
+} else{
+  console.log("wrong datiles")
+  }
