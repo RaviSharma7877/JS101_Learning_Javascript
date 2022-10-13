@@ -1,0 +1,4 @@
+function compareTwoNumbers(one, two) {
+    one>two ? console.log("Yes") : console.log("No")
+    
+}
