@@ -1,0 +1,4 @@
+function compareThreeNumbers(one, two, three) {
+    one>two&& one>three ? console.log("Yes"): console.log("No");
+    
+}
