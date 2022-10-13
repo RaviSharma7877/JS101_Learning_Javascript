@@ -1,0 +1,4 @@
+function compareFourNumbersII(one, two, three, four) {
+    one > two || three > four ? console.log("Yes"): console.log("No");
+    
+}
